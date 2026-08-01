@@ -36,21 +36,12 @@ After earning my BSc Eng (Hons) in Materials Engineering from the University of 
 
 ---
 
-## 📈 GitHub Stats
-
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinkumarage&show_icons=true&theme=radical&hide=stars)
-
----
-
 ## 🤝 Let's Connect
 
 I am actively looking for **remote, global opportunities** in Python Backend Development, Data Engineering, or Technical Solutions Architecture. 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sachin-kumarage-61085a17a/) 
 - 🌐 [Portfolio / Website] 
-- 📧 sachinthamadhawa@gmail.com 
+- 📧 sachinthamadhawa@gmail
+-.com 
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinkumarage&show_icons=true&theme=radical)
----
-
-> *"I don't write code just to run on a server. I write code to run the world from my laptop."*
