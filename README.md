@@ -51,5 +51,5 @@ Alongside that, I build **open-source Python tools** that make materials enginee
 
 ## 📫 Connect
 
-- LinkedIn: (https://www.linkedin.com/in/sachin-kumarage/)
+- LinkedIn: https://www.linkedin.com/in/sachin-kumarage/
 - Email: sachinthamadhawa@gmail.com
