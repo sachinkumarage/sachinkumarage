@@ -17,7 +17,6 @@ Alongside that, I build **open-source Python tools** that make materials enginee
 | [**Phase Diagram Explorer**](https://github.com/sachinkumarage/phase-diagram-explorer) | Compute and visualise binary phase diagrams from CALPHAD-style thermodynamic models | Live demo coming soon |
 | [**Finite Element Toolkit**](https://github.com/sachinkumarage/finite-element-toolkit) | Build FEA models and run structural analysis | [Live app](https://finite-element-toolkit.streamlit.app/) |
 | [**Material Property Analyzer**](https://github.com/sachinkumarage/material-property-analyzer) | Compare density, strength and mechanical performance of engineering materials | [Live app](https://material-property-analyzer.streamlit.app/) |
-| [**Battery Health Predictor**](https://github.com/sachinkumarage/VoltLife-EV-Battery-Health-Monitor-Predictor-API) | Predict battery state-of-health and remaining useful life from cycling data (ML + FastAPI) | Live demo coming soon  |
 
 ---
 
