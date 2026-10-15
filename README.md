@@ -14,7 +14,7 @@ Alongside that, I build **open-source Python tools** that make materials enginee
 
 | Project | Engineering problem it solves | Try it |
 |---|---|---|
-| [**Phase Diagram Explorer**](https://github.com/sachinkumarage/phase-diagram-explorer) | Compute and visualise binary phase diagrams from CALPHAD-style thermodynamic models | Live demo coming soon |
+| [**Phase Diagram Explorer**](https://github.com/sachinkumarage/phase-diagram-explorer) | Compute and visualise binary phase diagrams from CALPHAD-style thermodynamic models | [Live app](https://phase-diagram-explorer.streamlit.app/) |
 | [**Finite Element Toolkit**](https://github.com/sachinkumarage/finite-element-toolkit) | Build FEA models and run structural analysis | [Live app](https://finite-element-toolkit.streamlit.app/) |
 | [**Material Property Analyzer**](https://github.com/sachinkumarage/material-property-analyzer) | Compare density, strength and mechanical performance of engineering materials | [Live app](https://material-property-analyzer.streamlit.app/) |
 
